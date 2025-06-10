@@ -1,0 +1,3 @@
+/home/huzaifa/Desktop/GitHub/MiniLang-Compiler/build/CMakeFiles/mycompiler.dir
+/home/huzaifa/Desktop/GitHub/MiniLang-Compiler/build/CMakeFiles/edit_cache.dir
+/home/huzaifa/Desktop/GitHub/MiniLang-Compiler/build/CMakeFiles/rebuild_cache.dir
